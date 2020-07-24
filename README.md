@@ -2,7 +2,7 @@
 
 An interactive Dash illustration of a SIR epidemic model with social distancing.
 
-![https://github.com/chrisvoncsefalvay/dash-sir-interactive-model/raw/master/Screenshot%202020-07-24%20at%201.15.05%20PM.png]
+![https://raw.githubusercontent.com/chrisvoncsefalvay/dash-sir-interactive-model/master/Screenshot%202020-07-24%20at%201.15.05%20PM.png?token=AAUL4FHX7J5QYEAXKZ7DX7K7DMMBG]
 
 ## Running locally
 
