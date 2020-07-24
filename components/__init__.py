@@ -1,0 +1,1 @@
+from components.plot import solve
