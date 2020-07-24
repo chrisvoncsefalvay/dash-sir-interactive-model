@@ -1,6 +1,5 @@
 # Dash SIR distancing model
 
-[! https://img.shields.io/github/license/chrisvoncsefalvay/dash-sir-distancing-model] [! https://img.shields.io/badge/Made%20at-Starschema-red]
 A Dash illustration of a SIR epidemic model with social distancing.
 
 
