@@ -1,7 +1,8 @@
 # Dash SIR distancing model
 
-A Dash illustration of a SIR epidemic model with social distancing.
+An interactive Dash illustration of a SIR epidemic model with social distancing.
 
+![https://github.com/chrisvoncsefalvay/dash-sir-interactive-model/raw/master/Screenshot%202020-07-24%20at%201.15.05%20PM.png]
 
 ## Running locally
 
